@@ -99,10 +99,10 @@ h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(2.1rem,4vw,3.4re
   .container{width:min(100% - 28px,1160px)}
   .brand img{height:54px}.cards,.programme-grid,.mission-grid{grid-template-columns:1fr}
   h1{font-size:2.65rem}.hero-card{padding:28px}.footer-inner{grid-template-columns:1fr}.footer-links{justify-content:flex-start}
+}
 img[src*="rbf-logo.png"] {
   background:#ffffff;
   padding: 10x 14px;
   border-radius: 10x;
-}
 }
   
